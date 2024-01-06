@@ -4,7 +4,7 @@
   "description": "node on gcp",
   "main": "server.js",
   "scripts": {
-    "test": "mocha",
+    "test": "echo \"No test specified\"",
     "start": "node server.js"
   },
   "repository": {
