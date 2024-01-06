@@ -171,8 +171,8 @@ app.post('/users', function (req, res) {
 
 
 // Server setup
-app.listen(4000, () => {
-    console.log("node server.js running on 4000 ");
+app.listen(8080, () => {
+    console.log("node server.js running on 8080 ");
 });
 
 
